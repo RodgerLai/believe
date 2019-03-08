@@ -1,6 +1,8 @@
 # 湘昕科技官网
 
-湘昕科技官网v1.0
+湘昕科技官网v1.0   
+https://rodgerlai.github.io/believe
+http://123.206.85.58:4444/#/
 
 > 使用文档
 
