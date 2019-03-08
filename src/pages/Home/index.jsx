@@ -5,8 +5,6 @@ import Header from '../../components/Header';
 import IntroBanner from './components/IntroBanner';
 import AblityItems from './components/AblityItems';
 import IntroTab from './components/IntroTab';
-import CardItems from './components/CardItems';
-import SlideBanner from './components/SlideBanner';
 
 export default class Home extends Component {
   static displayName = 'Home';
@@ -23,8 +21,6 @@ export default class Home extends Component {
         <IntroBanner />
         <AblityItems />
         <IntroTab />
-        {/* <CardItems />
-        <SlideBanner /> */}
         <Footer />
       </div>
     );
