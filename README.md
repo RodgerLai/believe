@@ -11,6 +11,8 @@
 * 启动调试服务: `npm start`
 * 构建 dist: `npm run build`
 * 服务器后台运行: `nohup npm start &`
+* 注意： nohup命令执行后，不要直接关闭终端，使用exit命令退出会话
+
 
 目录结构:
 
