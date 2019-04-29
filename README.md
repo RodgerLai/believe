@@ -3,7 +3,6 @@
 湘昕科技官网v1.0   
 * http://xiangxinjs.com
 * https://rodgerlai.github.io/believe
-* http://123.206.85.58:4444/#/
 
 > 使用文档
 
