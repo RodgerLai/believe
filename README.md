@@ -24,3 +24,5 @@
 * 布局文件: `src/layouts`
 * 通用组件: `src/components`
 * 页面文件: `src/pages`
+
+jenkins: http://106.12.87.44:4247/job/hello-world
